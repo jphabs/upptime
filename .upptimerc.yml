@@ -9,6 +9,8 @@ sites:
     url: https://hcp.tweaksph.com
   - name: Hestia CP 2
     url: https://hcp2.tweaksph.com
+  - name: Google
+    url: https://google.com
 
 
   
