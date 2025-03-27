@@ -16,7 +16,7 @@
     "timeMonth": 162,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-03-27": 327,
+      "2025-03-27": 341,
       "2025-03-26": 1196,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -241,7 +241,7 @@
     "timeMonth": 141,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-03-27": 635,
+      "2025-03-27": 648,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -417,15 +417,15 @@
     "url": "https://hcp2.tweaksph.com",
     "icon": "https://icons.duckduckgo.com/ip3/hcp2.tweaksph.com.ico",
     "slug": "hestia-cp-2",
-    "status": "up",
-    "uptime": "93.28%",
-    "uptimeDay": "46.86%",
-    "uptimeWeek": "19.89%",
-    "uptimeMonth": "62.92%",
-    "uptimeYear": "93.28%",
+    "status": "down",
+    "uptime": "94.44%",
+    "uptimeDay": "47.80%",
+    "uptimeWeek": "20.02%",
+    "uptimeMonth": "69.35%",
+    "uptimeYear": "94.44%",
     "time": 151,
-    "timeDay": 225,
-    "timeWeek": 187,
+    "timeDay": 223,
+    "timeWeek": 186,
     "timeMonth": 162,
     "timeYear": 151,
     "dailyMinutesDown": {
@@ -442,9 +442,7 @@
       "2025-03-17": 1139,
       "2025-03-16": 998,
       "2025-03-15": 927,
-      "2025-03-14": 1396,
-      "2025-03-13": 1440,
-      "2025-03-12": 249
+      "2025-03-14": 270
     }
   },
   {
