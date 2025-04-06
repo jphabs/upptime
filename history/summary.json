@@ -4,14 +4,14 @@
     "url": "https://tweaksph.com",
     "icon": "https://icons.duckduckgo.com/ip3/tweaksph.com.ico",
     "slug": "tweaks-ph",
-    "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "81.09%",
-    "uptimeWeek": "77.59%",
-    "uptimeMonth": "89.61%",
-    "uptimeYear": "98.53%",
+    "status": "down",
+    "uptime": "98.54%",
+    "uptimeDay": "81.10%",
+    "uptimeWeek": "77.87%",
+    "uptimeMonth": "89.68%",
+    "uptimeYear": "98.54%",
     "time": 121,
-    "timeDay": 130,
+    "timeDay": 133,
     "timeWeek": 128,
     "timeMonth": 127,
     "timeYear": 121,
@@ -27,7 +27,7 @@
       "2025-03-29": 575,
       "2025-03-28": 588,
       "2025-03-27": 692,
-      "2025-03-26": 43
+      "2025-03-26": 13
     }
   },
   {
@@ -47,7 +47,7 @@
     "timeMonth": 190,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-04-06": 781,
+      "2025-04-06": 810,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -236,7 +236,7 @@
     "status": "up",
     "uptime": "98.25%",
     "uptimeDay": "91.74%",
-    "uptimeWeek": "81.14%",
+    "uptimeWeek": "81.42%",
     "uptimeMonth": "89.79%",
     "uptimeYear": "98.25%",
     "time": 155,
