@@ -4,16 +4,16 @@
     "url": "https://tweaksph.com",
     "icon": "https://icons.duckduckgo.com/ip3/tweaksph.com.ico",
     "slug": "tweaks-ph",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "90.35%",
-    "uptimeWeek": "87.76%",
-    "uptimeMonth": "90.28%",
-    "uptimeYear": "98.64%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "90.34%",
+    "uptimeWeek": "87.90%",
+    "uptimeMonth": "90.35%",
+    "uptimeYear": "98.65%",
     "time": 123,
-    "timeDay": 222,
-    "timeWeek": 147,
-    "timeMonth": 131,
+    "timeDay": 215,
+    "timeWeek": 146,
+    "timeMonth": 130,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2025-04-08": 59,
@@ -28,7 +28,7 @@
       "2025-03-30": 807,
       "2025-03-29": 575,
       "2025-03-28": 588,
-      "2025-03-27": 177
+      "2025-03-27": 145
     }
   },
   {
@@ -48,7 +48,7 @@
     "timeMonth": 216,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-04-08": 623,
+      "2025-04-08": 691,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -239,12 +239,12 @@
     "status": "up",
     "uptime": "98.28%",
     "uptimeDay": "84.59%",
-    "uptimeWeek": "90.02%",
+    "uptimeWeek": "90.36%",
     "uptimeMonth": "89.85%",
     "uptimeYear": "98.28%",
     "time": 155,
     "timeDay": 144,
-    "timeWeek": 173,
+    "timeWeek": 172,
     "timeMonth": 169,
     "timeYear": 155,
     "dailyMinutesDown": {
